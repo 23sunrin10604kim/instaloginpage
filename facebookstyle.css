@@ -1,0 +1,47 @@
+*{text-align: center; background-color: cornflowerblue;}
+
+
+
+.facebooklogin{font-size: 20px; text-align: center;}
+
+#email{
+    width: 15%;
+    height: 30px;
+    border-radius: 0px;
+    margin-top: 10px;
+    padding: 0px 20px;
+    border: 1px solid lightgray;
+    outline: none;
+    text-align: center;
+  }
+  #fb_password{
+    width: 15%;
+    height: 30px;
+    border-radius: 0px;
+    margin-top: 10px;
+    padding: 0px 20px;
+    border: 1px solid lightgray;
+    outline: none;
+    text-align: center;
+  }
+  #loginbutton{
+    width: 15%;
+    height: 30px;
+    border-radius: 0px;
+    margin-top: 10px;
+    padding: 0px 20px;
+    border: 1px solid rgb(255, 255, 255);
+    outline: none;
+    text-align: center;
+    background-color: blue;
+    color: aliceblue;
+  }
+ 
+  
+  #email::placeholder{
+    color: aliceblue;
+  }
+  #fb_password::placeholder{
+    color: aliceblue;
+  }
+ 
